@@ -7,7 +7,7 @@ The goal is to uncover actionable insights that can inform marketing strategies 
 
 This project takes a comprehensive approach, combining data cleaning, visualization, statistical analysis, and hypothesis testing to deliver insights that can inform game release strategies and marketing decisions.
 
-Analysis Page - https://github.com/olu-fela/video_games_analysis/blob/main/video_games_analysis
+Analysis Page - [https://github.com/olu-fela/video_games_analysis/blob/main/video_games_analysis](https://github.com/olu-fela/video_games_analysis/blob/main/video_games_analysis.ipynb)
 
 ## Dataset
 
