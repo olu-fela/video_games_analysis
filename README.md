@@ -1,6 +1,4 @@
-# video_games_analysis
-
-# TripleTen Data Science Sprint 5 Integrated Project - Vide Games Sales Analysis
+# TripleTen DS Project - Video Games Sales Analysis
 
 ## Introduction
 This project analyzes video game sales and associated data to identify patterns that determine a game's success. The dataset contains information on user and critic reviews, game genres, platforms (e.g., Xbox, PlayStation), and sales figures across various regions (North America, Europe, Japan, and other countries). It also includes content ratings assigned by the Entertainment Software Rating Board (ESRB).
@@ -22,47 +20,47 @@ The dataset includes:
   </thead>
   <tbody>
     <tr>
-      <td>**Name**</td>
+      <td>Name</td>
       <td>Game title</td>
     </tr>
     <tr>
-      <td>**Platform**</td>
+      <td>Platform</td>
       <td>Platform or console (e.g., Xbox, PlayStation, PC).</td>
     </tr>
     <tr>
-      <td>**Year_of_Release**</td>
+      <td>Year_of_Release</td>
       <td>Year the game was released.</td>
     </tr>
     <tr>
-      <td>**Genre**</td>
+      <td>Genre</td>
       <td>Game category (e.g., Shooter, RPG, Action).</td>
     </tr>
     <tr>
-      <td>**NA_sales**</td>
+      <td>NA_sales</td>
       <td>Sales in North America (in millions of USD).</td>
     </tr>
     <tr>
-      <td>**EU_sales**</td>
+      <td>EU_sales</td>
       <td>Sales in Europe (in millions of USD).</td>
     </tr>
     <tr>
-      <td>**JP_sales**</td>
+      <td>JP_sales</td>
       <td>Sales in Japan (in millions of USD).</td>
     </tr>
     <tr>
-      <td>**Other_sales**</td>
+      <td>Other_sales</td>
       <td>Sales in other regions (in millions of USD).</td>
     </tr>
     <tr>
-      <td>**Critic_score**</td>
+      <td>Critic_score</td>
       <td>Average critic score (out of 100).</td>
     </tr>
     <tr>
-      <td>**User_Score**</td>
+      <td>User_Score</td>
       <td>Average user score (out of 10).</td>
     </tr>
     <tr>
-      <td>**Rating**</td>
+      <td>Rating</td>
       <td>ESRB content rating (e.g., E, T, M).</td>
     </tr>
   </tbody>
